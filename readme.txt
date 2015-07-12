@@ -6,3 +6,4 @@ this is a last test.
 this is a git test.
 add new.
 add dmt.
+add git bash.
