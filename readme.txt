@@ -7,3 +7,4 @@ this is a git test.
 add new.
 add dmt.
 add git bash.
+this is dmt test.
